@@ -10,6 +10,7 @@ export default {
       rating: 4.5,
       numReview: 10,
       description: 'Best Slim Shirt in the whole world',
+      countInStock: 6,
     },
     {
       _id: '2',
@@ -21,6 +22,7 @@ export default {
       rating: 4.5,
       numReview: 10,
       description: ' Perfect fit for you',
+      countInStock: 10,
     },
     {
       _id: '3',
@@ -31,6 +33,7 @@ export default {
       brand: 'Adidas',
       rating: 4.5,
       numReview: 10,
+      countInStock: 0,
     },
   ],
 };
